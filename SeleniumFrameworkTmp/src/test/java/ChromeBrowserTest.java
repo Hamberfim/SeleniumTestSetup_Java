@@ -18,7 +18,7 @@ public class ChromeBrowserTest {
 		// follow links to search for CIS classes on DMACC site
 		driver.get("https://www.dmacc.edu/programs/Pages/academic.aspx");
 		driver.findElement(By.xpath("//a[contains(text(),'Find a Class')]")).click();
-		// select all camupus'
+		// select all campus'
 		driver.findElement(By.xpath("//select[@id='ctl00_PlaceHolderMain_ctl01_ctl00_Campus']//option[contains(text(),'All')]")).click();
 		// select CIS
 		driver.findElement(By.xpath("//option[contains(text(),'Computer Information Systems')]")).click();
