@@ -8,5 +8,5 @@
 - select the CIS program
 - submits search
 - gets the current url & prints it to the console
-- gets each class title/info and them to a list
+- gets each class title/info and adds them to a list
 - loops thru the list to print course titles/info to the console
