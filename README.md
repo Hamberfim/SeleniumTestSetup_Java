@@ -1,3 +1,5 @@
+[![Known Vulnerabilities](https://snyk.io/test/github/Hamberfim/SeleniumTestSetup_Java/badge.svg?targetFile=SeleniumFrameworkTmp/pom.xml)](https://snyk.io/test/github/Hamberfim/SeleniumTestSetup_Java?targetFile=SeleniumFrameworkTmp/pom.xml)
+
 ### Selenium Java Test Setup
 #### Testing selenium java framework
 
@@ -10,3 +12,4 @@
 - gets the current url & prints it to the console
 - gets each class title/info and adds them to a list
 - loops thru the list to print course titles/info to the console
+
