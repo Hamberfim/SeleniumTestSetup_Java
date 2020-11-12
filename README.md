@@ -1,5 +1,3 @@
-[![Known Vulnerabilities](https://snyk.io/test/github/Hamberfim/SeleniumTestSetup_Java/badge.svg?targetFile=SeleniumFrameworkTmp/pom.xml)](https://snyk.io/test/github/Hamberfim/SeleniumTestSetup_Java?targetFile=SeleniumFrameworkTmp/pom.xml)
-
 ### Selenium Java Test Setup
 #### Testing selenium java framework
 
