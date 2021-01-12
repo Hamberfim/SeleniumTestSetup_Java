@@ -1,7 +1,6 @@
 ### Selenium Java Test Setup
 #### Testing selenium java framework
 
-### Executable File: ChromeBrowserTest.java
 ✨ Automation steps:
 - follows webelements/links to search for CIS classes on DMACC website
 - selects all campus'
